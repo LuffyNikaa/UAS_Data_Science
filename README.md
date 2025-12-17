@@ -4,7 +4,7 @@
 
 * **Nama:** Angger Rahmadi
 * **Repo:** [UAS_Angger](https://github.com/LuffyNikaa/UAS_Data_Science.git)
-* **Video:** #
+* **Video:** https://drive.google.com/file/d/1LjjL7oWwpqCHv6KIc-pGBNMmvUAm5z8K/view?usp=drive_link
 
 ---
 
