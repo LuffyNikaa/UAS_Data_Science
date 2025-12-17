@@ -1,9 +1,9 @@
-# 📘 Klasifikasi Diagnosis Penyakit (Exasens Dataset)
+# 📘 Klasifikasi Pasien Penyakit Alzheimer Dari Orang Sehat Menggunakan Dataset Darwin
 
 ### 👤 Informasi
 
 * **Nama:** Angger Rahmadi
-* **Repo:** [UAS_Angger](#)
+* **Repo:** [UAS_Angger](https://github.com/LuffyNikaa/UAS_Data_Science.git)
 * **Video:** #
 
 ---
@@ -145,7 +145,7 @@ Untuk menjalankan proyek ini di lokal komputer Anda:
 
 1. **Clone Repository:**
    ```bash
-   git clone [https://github.com/asammanis89/UAS_Exasens_Classification.git](https://github.com/asammanis89/UAS_Exasens_Classification.git)
+   git clone [https://github.com/LuffyNikaa/UAS_Data_Science.git](https://github.com/LuffyNikaa/UAS_Data_Science.git)
    ```
 
 2. **Jalankan Notebook:**
